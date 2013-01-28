@@ -1,0 +1,2 @@
+{ "nested": [{ "one": 1, "two": 2 }, { "two": 2, "one": 1}], "one": 1, "two": 2, "_id" : { "$oid" : "50184f5a92d7ae0000001e88" } }
+{ "nested": [{ "one": 1, "two": 2 }, { "two": 2, "one": 1}], "two": 2, "one": 1, "_id" : { "$oid" : "50184f5a92d7ae0000001e89" } }

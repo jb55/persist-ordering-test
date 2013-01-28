@@ -1,0 +1,3 @@
+#!/bin/sh
+./drop_data
+mongoimport -d "jb55_ordering_test" -c "Album" < good.json

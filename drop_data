@@ -1,0 +1,2 @@
+#!/bin/sh
+mongo jb55_ordering_test drop_data.js
